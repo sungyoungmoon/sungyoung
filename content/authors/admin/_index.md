@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: B.S. COMPUTER SCIENCE
+      institution: University of California San Diego
+      Eyear: 2024 December 
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sungyoung Moon is a Computer Science student at the University of California San Diego.
 {style="text-align: justify;"}
