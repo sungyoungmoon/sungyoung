@@ -38,7 +38,7 @@ education:
   courses:
     - course: B.S. COMPUTER SCIENCE
       institution: University of California San Diego
-      Eyear: 2024 December 
+      year: 2024 December 
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
