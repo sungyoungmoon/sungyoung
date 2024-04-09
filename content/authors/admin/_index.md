@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://mail.google.com/mail/u/?authuser=sumoon@ucsd.edu
+    link: mailto:sumoon@ucsd.edu
   
   - icon: github
     icon_pack: fab
