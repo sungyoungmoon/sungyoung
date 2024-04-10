@@ -1,5 +1,5 @@
 ---
-title: TO-DO-List App
+title: TO-DO-List Android App
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
