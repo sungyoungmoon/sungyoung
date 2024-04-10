@@ -38,13 +38,9 @@ education:
   courses:
     - course: B.S. COMPUTER SCIENCE
       institution: University of California San Diego
-      year: 2024 December 
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: Expected March 2025 
+   
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
