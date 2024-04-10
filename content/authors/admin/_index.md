@@ -38,7 +38,10 @@ education:
   courses:
     - course: B.S. COMPUTER SCIENCE
       institution: University of California San Diego
-      year: Expected March 2025 
+      year: Expected March 2025
+    - course: Santa Monica College
+      institution:
+      year: 2021
    
 
 
