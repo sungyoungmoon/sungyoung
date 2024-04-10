@@ -42,14 +42,16 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  
   # - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  #    content:
+   #     title: Skills
+  #      text: ''
+   #     # Choose a user to display skills from (a folder name within `content/authors/`)
+   #     username: admin
+   #   design:
+   #     columns: '1'
+      
   - block: experience
     content:
       title: Experience
@@ -86,28 +88,28 @@ sections:
     design:
       columns: '2'
    # - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+   #  content:
+  #      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #      title: 'Accomplish&shy;ments'
+ #       subtitle:
+  #      # Date format: https://docs.hugoblox.com/customization/#date-format
+ #       date_format: Jan 2006
+  #      # Accomplishments.
+ #       #   Add/remove as many `item` blocks below as you like.
+ #       #   `title`, `organization`, and `date_start` are the required parameters.
+ #       #   Leave other parameters empty if not required.
+ #       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+ #       items:
+  #        - certificate_url: https://www.coursera.org
+  #          date_end: ''
+   #         date_start: '2021-01-25'
+   #         description: ''
+  #          icon: coursera
+   #         organization: Coursera
+   #         organization_url: https://www.coursera.org
+ #           title: Neural Networks and Deep Learning
+  #          url: ''
+   #       - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
