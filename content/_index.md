@@ -99,8 +99,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Programming
+          tag: Programming
+       - name: Teaching
+          tag: Teaching
         - name: Other
           tag: Demo
     design:
