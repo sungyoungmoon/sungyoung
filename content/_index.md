@@ -75,7 +75,7 @@ sections:
         - title: Administrative Support Specialist, Sergeant
           company: Republic of Korea Army
           company_url: ''
-          company_logo: org-x
+          company_logo: army
           location: 
           date_start: '2014-12-01'
           date_end: '2016-09-30'
@@ -83,7 +83,7 @@ sections:
         - title: Technical Consultant, Freelance
           company: Kmong Inc.
           company_url: ''
-          company_logo: org-x
+          company_logo: kmong
           location: 
           date_start: '2013-01-01'
           date_end: '2014-12-31'
@@ -91,7 +91,7 @@ sections:
         - title: Gaming / Anime Community Website, Founder
           company: 
           company_url: ''
-          company_logo: org-x
+          company_logo: myweb
           location: 
           date_start: '2010-10-01'
           date_end: '2014-12-31'
