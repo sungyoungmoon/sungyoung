@@ -72,30 +72,30 @@ sections:
               * Implemented an event calendar system to schedule and organize various chapter events and volunteer activities.
               * Designed and maintained a digital library for newsletters, providing an easily accessible resource for members and stakeholders to review past content and updates.
 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Administrative Support Specialist, Sergeant
+          company: Republic of Korea Army
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: 
+          date_start: '2014-12-01'
+          date_end: '2016-09-30'
+          description: Managed administrative tasks and maintained records using military security databases and software, ensuring security and data integrity.
+        - title: Technical Consultant, Freelance
+          company: Kmong Inc.
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: 
+          date_start: '2013-01-01'
+          date_end: '2014-12-31'
+          description: Advised startups on web development and maintenance to drive business success through Kmong Inc.
+        - title: Gaming / Anime Community Website, Founder
+          company: 
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: 
+          date_start: '2010-10-01'
+          date_end: '2014-12-31'
+          description: Founded and managed a gaming/anime community website during high school, which reached 100K+ users and 40M+ visits in three years. Led operational decision-making and organized anime events at expos.
     design:
       columns: '2'
 
