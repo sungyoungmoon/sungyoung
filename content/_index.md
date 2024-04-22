@@ -60,7 +60,7 @@ sections:
         - title: Web Developer
           company: Alpha Gamma Sigma, Santa Monica College
           company_url: ''
-          company_logo: org-gc
+          company_logo: ags
           location: Santa Monica
           date_start: '2019-01-01'
           date_end: '2021-01-01'
