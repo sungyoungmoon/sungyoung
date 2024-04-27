@@ -1,8 +1,7 @@
 ---
 title: TO-DO-List Android App
-summary: Contributed to Successorator, an Android task management app. Used Java, Android Studio, Git, GitHub, and
-Agile methods to implement hierarchical task prioritization. Planned future updates include personalized
-productivity features.
+summary: 
+Contributed to Successorator, an Android task management app. Used Java, Android Studio, Git, GitHub, and Agile methods to implement hierarchical task prioritization. Planned future updates include personalized productivity features.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
