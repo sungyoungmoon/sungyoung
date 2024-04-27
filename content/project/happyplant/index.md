@@ -14,14 +14,11 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://docs.google.com/document/d/1PXzFTH1KD7U4cYexpL_TmspqRZR4ux3k/edit?usp=sharing&ouid=112380079932953070634&rtpof=true&sd=true'
 url_slides: ''
-url_video: 'https://youtu.be/NJWNvNU74-s'
+url_video: 'https://youtu.be/l7jk6fIN6yw'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
