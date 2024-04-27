@@ -74,5 +74,5 @@ social:
 highlight_name: true
 ---
 
-Sungyoung Moon is a Computer Science student at the University of California San Diego.
+
 {style="text-align: justify;"}
