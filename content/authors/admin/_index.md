@@ -29,9 +29,16 @@ bio: I am a senior Computer Science student at the University of California San 
 
 # Interests to show in About widget
 interests3:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Advanced Data Structures
+  - Components and Design Tech/Digital System
+  - Computer Architecture
+  - Computer Graphics
+  - Data Science in Practice
+  - Database System Principles
+  - Design and Analysis of Algorithms
+  - Operating System
+  - Software Engineering
+  - Theory of Computation
 
 # Education to show in About widget
 education:
