@@ -28,7 +28,7 @@ organizations:
 bio: I am a senior Computer Science student at the University of California San Diego, preparing to transition from academia to the tech industry. With a deep dive into both theoretical foundations and practical applications, I have gained experience in website development and data analysis. I have participated in various class projects and pursued personal projects.
 
 # Interests to show in About widget
-interests:
+interests3:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
