@@ -30,5 +30,5 @@ slides: example
 
 The Happy Planting device is equipped with a moisture sensor and a customizable MP3 player, allowing our household plants to play a custom unique sound whenever they need water. This feature helps to keep track of water levels for your household plants.
 
-
+url_pdf: 'https://docs.google.com/document/d/1PXzFTH1KD7U4cYexpL_TmspqRZR4ux3k/edit?usp=sharing&ouid=112380079932953070634&rtpof=true&sd=true'
 url_video: 'https://youtu.be/l7jk6fIN6yw'
