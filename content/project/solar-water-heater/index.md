@@ -1,7 +1,7 @@
 ---
 title: Solar Thermal Water System
 summary: >
-Current Project: Design and build solar-powered water heater systems for children's homes in Tijuana, Mexico.  Partner: LA Mision Children's Fund
+Current Project: Design and build solar-powered water heater systems for children's homes in Tijuana, Mexico. Partner: LA Mision Children's Fund
 
 tags:
   - Demo
