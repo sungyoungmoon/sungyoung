@@ -57,6 +57,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+         - title: Web Developer
+          company: Alpha Gamma Sigma, Santa Monica College
+          company_url: ''
+          company_logo: ags
+          location: Santa Monica
+          date_start: '2019-01-01'
+          date_end: '2021-01-01'
+          description:
         - title: Web Developer
           company: Alpha Gamma Sigma, Santa Monica College
           company_url: ''
