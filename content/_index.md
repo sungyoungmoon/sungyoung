@@ -62,7 +62,7 @@ sections:
           location: Santa Monica
           date_start: '2019-01-01'
           date_end: '2021-01-01'
-          description:ddd
+          description: ter
 
     
         - title: Web Developer
