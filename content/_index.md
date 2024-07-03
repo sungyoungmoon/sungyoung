@@ -47,14 +47,6 @@ sections:
       
   - block: experience
     content:
-    - title: Technical Consultant, Freelance
-          company: Kmong Inc.
-          company_url: ''
-          company_logo: kmong
-          location: 
-          date_start: '2013-01-01'
-          date_end: '2014-12-31'
-          description: Advised startups on web development and maintenance to drive business success through Kmong Inc.
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
