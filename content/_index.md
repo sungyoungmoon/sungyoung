@@ -61,7 +61,7 @@ sections:
           company_logo: sgs
           location: San Diego, CA
           date_start: '2024-06-01'
-          date_end: 'Present'
+          date_end: ''
           description: |2-
               * Conduct Radio Frequency Over the Air (OTA) antenna testing on mobile products (CDMA, GSM, LTE, Wi-Fi, 5G) based on client and SGS quality system requirements.
               * Perform debugging, test engineering, and system management for wireless clients using tools like EMQUEST, CRTx, and EMC32.
