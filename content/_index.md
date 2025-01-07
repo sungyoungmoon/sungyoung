@@ -57,15 +57,19 @@ sections:
       items:
   
 
-        - title: test
-          company: test
-          company_url: ''
-          company_logo: test
-          location: test
-          date_start: '2019-01-01'
-          date_end: '2021-01-01'
+        - title: OTA(Over the Air) Engineer
+          company: SGS North America
+          company_url: 'https://www.sgs.com/en-us'
+          company_logo: sgs
+          location: San Diego, CA
+          date_start: '2024-06-01'
+          date_end: 'Present'
           description: |2-
-            * ddd
+              * Conduct Radio Frequency Over the Air (OTA) antenna testing on mobile products (CDMA, GSM, LTE, Wi-Fi, 5G) based on client and SGS quality system requirements.
+              * Perform debugging, test engineering, and system management for wireless clients using tools like EMQUEST, CRTx, and EMC32.
+              * Maintain industry standard test platforms, troubleshoot issues, and ensure compliance with accreditation.
+              * Collaborate with customers and test equipment manufacturers to resolve testing issues and deliver high quality service.   
+
     
               
         - title: Web Developer
