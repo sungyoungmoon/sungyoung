@@ -57,22 +57,17 @@ sections:
       items:
   
 
-        - title: Web Developer
-          company: Alpha Gamma Sigma, Santa Monica College
+        - title: test
+          company: test
           company_url: ''
-          company_logo: ags
-          location: Santa Monica
+          company_logo: test
+          location: test
           date_start: '2019-01-01'
           date_end: '2021-01-01'
           description: |2-
+            * ddd
     
-              * Developed a student database to manage student information and track their progress, including volunteering records, attendance, and membership fees.
-              * Created and maintained the official website, serving as a central online hub for organization information, updates, and resources.
-              * Established and managed an e-commerce platform for selling organization-related merchandise.
-              * Implemented an event calendar system to schedule and organize various chapter events and volunteer activities.
-              * Designed and maintained a digital library for newsletters, providing an easily accessible resource for members and stakeholders to review past content and updates.
-
-    
+              
         - title: Web Developer
           company: Alpha Gamma Sigma, Santa Monica College
           company_url: ''
