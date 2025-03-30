@@ -16,7 +16,7 @@ I'm a recent Computer Science graduate from UC San Diego, passionate about embed
 - Hugo Academic CV Theme
 - GitHub Pages for deployment
 
-📬 Feel free to explore or reach out at [sumoon@ucsd.edu](mailto:sumoon@ucsd.edu)!
+📬 Feel free to explore or reach out at [sumoon@ucsd.edu](mailto:sungyoungmn@gmail.com)!
 
 ## 📸 Live Website
 👉 [sungyoungmoon.com](https://sungyoungmoon.com)
