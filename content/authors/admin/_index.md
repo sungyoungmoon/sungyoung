@@ -21,7 +21,7 @@ role: Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, San Diego UC San Diego
+  - name: UC San Diego
     url: https://jacobsschool.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
