@@ -14,7 +14,7 @@ main:
 
   - name: Resume
     url: uploads/resume.pdf
-    weight: 70
+    weight: 30
 
 
 
