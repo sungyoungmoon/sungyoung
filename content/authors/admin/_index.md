@@ -28,17 +28,18 @@ organizations:
 bio: I’m a recent Computer Science graduate from UC San Diego with experience in software testing, system security, and programming through both coursework and hands-on projects. I’m actively seeking full-time opportunities as a Software QA Engineer, SDET, Security Engineer, or Software Engineer in San Diego or other locations. I enjoy solving complex problems and building reliable, high-quality software. I'm always open to new opportunities and connections.
 
 # Interests to show in About widget  interests:
-interest4:
+interests:
+  - Data Structures and Object-Oriented Design
   - Advanced Data Structures
-  - Components and Design Tech/Digital System
-  - Computer Architecture
-  - Computer Graphics
-  - Data Science in Practice
-  - Database System Principles
   - Design and Analysis of Algorithms
-  - Operating System
+  - Operating Systems
+  - Computer Security
   - Software Engineering
+  - Database Systems
+  - Computer Architecture
+  - Recommender Systems
   - Theory of Computation
+  - Digital Systems Design
 
 # Education to show in About widget
 education:
