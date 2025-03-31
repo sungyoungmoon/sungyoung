@@ -1,19 +1,18 @@
 ---
-title: Example Talk
+title: test
 
-event: Hugo Blox Builder Conference
+event: test
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: test
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: test
+  city: test
+  region: test
+  postcode: '00000'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: test
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,7 +37,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
