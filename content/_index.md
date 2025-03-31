@@ -55,7 +55,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: OTA(Over the Air) Engineer
+        - title: Test Engineer
           company: SGS North America
           company_url: 'https://www.sgs.com/en-us'
           company_logo: sgs
