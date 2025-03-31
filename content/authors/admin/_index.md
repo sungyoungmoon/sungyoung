@@ -43,9 +43,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.S. COMPUTER SCIENCE
-      institution: University of California San Diego
-      year: Expected March 2025
+    - course: B.S. Computer Science
+      institution: UC San Diego
+      year: March 2025
     - course: Santa Monica College
       institution:
       year: 2021
