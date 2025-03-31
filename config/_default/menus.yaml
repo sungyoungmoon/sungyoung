@@ -12,7 +12,7 @@ main:
     url: '#projects'
     weight: 30
 
-  - name: Resume(PDF)
+  - name: Resume (PDF)
     url: uploads/resume.pdf
     weight: 30
 
