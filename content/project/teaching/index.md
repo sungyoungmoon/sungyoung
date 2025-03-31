@@ -19,8 +19,6 @@ links:
 
 url_video: "https://sites.google.com/ucsd.edu/sumoon/home"
 
+slides: ""
 
-image:
-  caption: "Photo by Toa Heftiba on Unsplash"
-  focal_point: "Smart"
 ---
