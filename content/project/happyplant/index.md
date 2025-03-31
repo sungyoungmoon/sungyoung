@@ -8,15 +8,14 @@ tags:
   - Programming
 date: '2024-01-27T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
-external_link: ''
+# Optional external URL for project (replaces project detail page)external_link: ''
+
 
 image:
   caption: 
   focal_point: 
 
 links:
-
 url_code: https://github.com/sungyoungmoon/Happy-Planting-Device
 
 
