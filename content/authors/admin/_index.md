@@ -25,7 +25,7 @@ organizations:
     url: https://jacobsschool.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a senior Computer Science student at the University of California, San Diego, preparing to transition from academia to the tech industry. Through both theoretical foundations and practical applications, I have gained experience in software engineering, web development, and data analysis. I have participated in various class projects and have also pursued personal projects.
+bio: I’m a recent Computer Science graduate from UC San Diego with experience in software testing, system security, and programming through both coursework and hands-on projects. I’m actively seeking full-time opportunities as a Software QA Engineer, SDET, Security Engineer, or Software Engineer in San Diego or other locations. I enjoy solving complex problems and building reliable, high-quality software. I'm always open to new opportunities and connections.
 
 # Interests to show in About widget  interests:
 interests:
