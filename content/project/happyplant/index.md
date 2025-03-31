@@ -17,7 +17,7 @@ image:
 
 links:
 
-url_code: 'https://github.com/sungyoungmoon/Happy-Planting-Device'
+url_code: https://github.com/sungyoungmoon/Happy-Planting-Device
 
 
 # Slides (optional).
