@@ -24,11 +24,11 @@ organizations:
   - name: UC San Diego, Jacobs School of Engineering 
     url: https://jacobsschool.ucsd.edu/
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts for blog section!  it's not the bio for the main page)
 bio: I’m a recent Computer Science graduate from UC San Diego with experience in software testing, system security, and programming through both coursework and hands-on projects. I’m actively seeking full-time opportunities as a Software QA Engineer, SDET, Security Engineer, or Software Engineer in San Diego or other locations. I enjoy solving complex problems and building reliable, high-quality software. I'm always open to new opportunities and connections.
 
 # Interests to show in About widget  interests:
-interests:
+interest4:
   - Advanced Data Structures
   - Components and Design Tech/Digital System
   - Computer Architecture
