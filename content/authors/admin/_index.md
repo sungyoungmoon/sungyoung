@@ -44,11 +44,11 @@ interests:
 education:
   courses:
     - course: B.S. Computer Science
-      institution: UC San Diego
+      institution: UC San Diego, Jacobs School of Engineering
       year: March 2025
     - course: Santa Monica College
       institution:
-      year: 2021
+      year: June 2021
    
 
 
