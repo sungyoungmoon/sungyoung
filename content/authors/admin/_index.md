@@ -11,7 +11,7 @@ last_name: Moon
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -59,7 +59,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:sumoon@ucsd.edu
+    link: mailto: sungyoungmn@gmail.com
 
   - icon: linkedin
     icon_pack: fab
