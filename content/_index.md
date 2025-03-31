@@ -21,7 +21,7 @@ sections:
         label: >-
           <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Sungyoung Moon</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
-    ddd
+    
        
 
         **Easily build anything with blocks - no-code required!**
