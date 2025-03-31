@@ -59,7 +59,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto: sungyoungmn@gmail.com
+    link: mailto:sungyoungmn@gmail.com
 
   - icon: linkedin
     icon_pack: fab
