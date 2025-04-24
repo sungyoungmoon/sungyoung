@@ -64,7 +64,7 @@ sections:
           date_start: '2024-06-01'
           date_end: ''
           description: |2-
-              * Conduct Radio Frequency Over the Air (OTA) antenna testing on mobile products (CDMA, GSM, LTE, Wi-Fi, 5G) based on client and SGS quality system requirements.
+              * Conduct Radio Frequency Over-the-Air (OTA) antenna testing for major clients including Google and Samsung on mobile products (CDMA, GSM, LTE, Wi-Fi, 5G), ensuring compliance with client and SGS quality system requirements.
               * Perform debugging, test engineering, and system management for wireless clients using tools like EMQUEST, CRTx, and EMC32.
               * Maintain industry standard test platforms, troubleshoot issues, and ensure compliance with accreditation.
               * Collaborate with customers and test equipment manufacturers to resolve testing issues and deliver high quality service.   
