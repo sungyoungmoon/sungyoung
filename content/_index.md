@@ -94,7 +94,7 @@ sections:
           date_start: '2014-12-01'
           date_end: '2016-09-30'
           description: Managed administrative tasks and maintained records using military security databases and software, ensuring security and data integrity.
-        - title: Technical Consultant, Freelance
+        - title: Technical Consultant, Self-employed
           company: Kmong Inc.
           company_url: ''
           company_logo: kmong
