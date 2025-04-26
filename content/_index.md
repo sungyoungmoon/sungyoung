@@ -75,7 +75,7 @@ sections:
           company: Alpha Gamma Sigma Honor Society, Santa Monica College
           company_url: ''
           company_logo: ags
-          location: Santa Monica
+          location: Santa Monica, CA
           date_start: '2019-01-01'
           date_end: '2021-01-01'
           description: |2-
