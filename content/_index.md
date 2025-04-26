@@ -72,7 +72,7 @@ sections:
     
               
         - title: Web Developer
-          company: Alpha Gamma Sigma, Santa Monica College
+          company: Alpha Gamma Sigma Honor Society, Santa Monica College
           company_url: ''
           company_logo: ags
           location: Santa Monica
