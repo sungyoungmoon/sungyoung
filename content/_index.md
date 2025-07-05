@@ -46,25 +46,28 @@ sections:
   
   - block: experience
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
         - title: Test Engineer
           company: SGS North America
           company_url: 'https://www.sgs.com/en-us'
           company_logo: sgs
           location: San Diego, CA
           date_start: '2024-06-01'
-          date_end: ''
+          date_end: '202-06-01'
           description: |2-
               * Conduct Radio Frequency Over-the-Air (OTA) antenna testing for major clients including Google and Samsung on mobile products (CDMA, GSM, LTE, Wi-Fi, 5G), ensuring compliance with client and SGS quality system requirements.
+              * Perform debugging, test engineering, and system management for wireless clients using tools like EMQUEST, CRTx, and EMC32.
+              * Maintain industry standard test platforms, troubleshoot issues, and ensure compliance with accreditation.
+              * Collaborate with customers and test equipment manufacturers to resolve testing issues and deliver high quality service.
+
+        - title: Test Engineer
+          company: SGS North America
+          company_url: 'https://www.sgs.com/en-us'
+          company_logo: sgs
+          location: San Diego, CA
+          date_start: '2024-06-01'
+          date_end: '202-06-01'
+          description: |2-
+              * Conduct Radio Frequency Over-the-Air (OTA) antenna testing for major clients including Google and Samsung on mobile products (CDMA, GSM, LTE, Wi-Fi, 5G), ensuring compliance with client and SGS     quality system requirements.
               * Perform debugging, test engineering, and system management for wireless clients using tools like EMQUEST, CRTx, and EMC32.
               * Maintain industry standard test platforms, troubleshoot issues, and ensure compliance with accreditation.
               * Collaborate with customers and test equipment manufacturers to resolve testing issues and deliver high quality service.   
