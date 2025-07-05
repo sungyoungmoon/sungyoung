@@ -46,6 +46,15 @@ sections:
   
   - block: experience
     content:
+          - title: MES Associate Engineer
+          company: SK C&C USA
+          company_url: 'https://www.sgs.com/en-us'
+          company_logo: skcc
+          location: Duluth, GA
+          date_start: '2024-07-01'
+          date_end: ''
+          description: |2-
+    
         - title: Test Engineer
           company: SGS North America
           company_url: 'https://www.sgs.com/en-us'
